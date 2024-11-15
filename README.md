@@ -29,4 +29,5 @@
     ```pip install -r requirements.txt```  
   
 Для работы с Jupyter notebook также необходим доступ или наличие одной и следующих программ или платформ:  
-Jupyter Notebook, JupyterLab, Google Colab, VS Code и др.
+Jupyter Notebook, JupyterLab, Google Colab, VS Code и др.  
+Для сбора информации из интернет необходим браузер Google Chrome.
